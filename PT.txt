@@ -27,3 +27,7 @@ Projekt B: Temat [link do repozytorium]
 Krzysztof Mospan 218919
 Projekt A: Temat [link do repozytorium]
 Projekt B: Temat [link do repozytorium]
+
+Mateusz Maciejuk 230134
+Projekt A: Temat [link do repozytorium]
+Projekt B: Analizator stanow logicznych [https://github.com/matiko122/COMLogicAnalyzer]
