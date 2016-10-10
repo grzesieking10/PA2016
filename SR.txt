@@ -31,7 +31,7 @@ Projekt A: Temat [link do repozytorium]
 Projekt B: Temat [link do repozytorium]
 
 Mnich Jakub  
-Projekt A: Temat [link do repozytorium]
+Projekt A: SCADA do stanowiska do badania algorytmów regulacji napędów śmigłowych (Java) [https://github.com/jmnich/GroundStation1.0]
 Projekt B: Temat [link do repozytorium]
 
 Mosak Maciej
