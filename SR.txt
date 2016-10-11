@@ -39,7 +39,7 @@ Projekt A: Temat [link do repozytorium]
 Projekt B: Temat [link do repozytorium]
 
 Niemczuk Jakub
-Projekt A: Temat [link do repozytorium]
+Projekt A: Not a Universal Resistance Meter [https://github.com/Halogenek/NURM]
 Projekt B: Temat [link do repozytorium]
 
 Polański Paweł
