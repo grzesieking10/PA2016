@@ -15,7 +15,7 @@ Projekt A: Temat [link do repozytorium]
 Projekt B: Temat [link do repozytorium]
 
 Fedoryka Grzegorz
-Projekt A: aplikacja rysująca fraktale https://github.com/GrzegorzFedoryka/fraktale.git
+Projekt A: Temat [link do repozytorium]
 Projekt B: Temat [link do repozytorium]
 
 Kanus Mateusz
@@ -51,5 +51,5 @@ Projekt A: Temat [link do repozytorium]
 Projekt B: Temat [link do repozytorium]
 
 Ziółkowski Artur
-Projekt A: Temat [link do repozytorium]
+Projekt A: Klawisze (pianino) wykonane w WinAPI.
 Projekt B: Temat [link do repozytorium]
