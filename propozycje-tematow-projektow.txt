@@ -1,3 +1,1 @@
 ...
-Załączanie i wyłączanie 230V + pomiar prądu i napiecia? - Mosak
- --> Maksymalnie 24 V
