@@ -15,7 +15,7 @@ Projekt A: Temat [link do repozytorium]
 Projekt B: Temat [link do repozytorium]
 
 Fedoryka Grzegorz
-Projekt A: Temat [link do repozytorium]
+Projekt A: aplikacja rysująca fraktale https://github.com/GrzegorzFedoryka/fraktale.git
 Projekt B: Temat [link do repozytorium]
 
 Kanus Mateusz
