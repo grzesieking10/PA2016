@@ -39,3 +39,7 @@ Projekt B: Analizator stanow logicznych [https://github.com/matiko122/COMLogicAn
 Paweł Cyprys 227279
 Projekt A: Temat [link do repozytorium]
 Projekt B: Temat [link do repozytorium]
+
+Michał Pływacz 221254
+Projekt A: Temat [link do repozytorium]
+Projekt B: Temat [link do repozytorium]
