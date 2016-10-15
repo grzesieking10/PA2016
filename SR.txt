@@ -47,7 +47,7 @@ Projekt A: Panel kontrolny do interpretacji, testów oraz kalibracji filtra dany
 Projekt B: Temat [link do repozytorium]
 
 Zieliński Grzegorz
-Projekt A: Temat [link do repozytorium]
+Projekt A: Snake
 Projekt B: Temat [link do repozytorium]
 
 Ziółkowski Artur
