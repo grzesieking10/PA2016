@@ -43,3 +43,7 @@ Projekt B: Temat [link do repozytorium]
 Michał Pływacz 221254
 Projekt A: Temat [link do repozytorium]
 Projekt B: Temat [link do repozytorium]
+
+Piotr Wyciechowski 204004
+Projekt A: Temat [link do repozytorium]
+Projekt B: Temat [link do repozytorium]
