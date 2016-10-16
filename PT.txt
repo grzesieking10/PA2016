@@ -29,12 +29,12 @@ Projekt A: Temat [link do repozytorium]
 Projekt B: Temat [link do repozytorium]
 
 Mateusz Maciejuk 230134
-Projekt A: Temat [link do repozytorium]
-Projekt B: Analizator stanow logicznych [https://github.com/matiko122/COMLogicAnalyzer]
+Projekt A: Analizator stanow logicznych [https://github.com/matiko122/COMLogicAnalyzer]
   - wyświetlenie do wyboru tylko tych portów COM, które w danej chwili istnieją
   - osobny wątek do odbierania danych lub inny mechanizm zapobiegający blokowaniu okna aplikacji
   - elementarna kontrola poprawności danych, sprawdzanie czy po drugiej stronie jest spodziewany sprzęt, ...
   - oprócz wyświetlania bieżącego stanu wejść także ich prosta analiza: detekcja zbocza, możliwość pomiaru długości impulsu, ...
+Projekt B: Temat [link do repozytorium]
   
 Paweł Cyprys 227279
 Projekt A: Temat [link do repozytorium]
