@@ -11,7 +11,7 @@ Projekt A: Temat [link do repozytorium]
 Projekt B: Temat [link do repozytorium]
 
 Dase Wojciech
-Projekt A: Temat [link do repozytorium]
+Projekt A: Sterowanie diodą RGB [link do repozytorium]
 Projekt B: Temat [link do repozytorium]
 
 Fedoryka Grzegorz
