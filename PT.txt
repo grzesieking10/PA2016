@@ -13,7 +13,7 @@ Projekt A: Temat [link do repozytorium]
 Projekt B: Temat [link do repozytorium]
 
 Marcin Prządka 219793
-Projekt A: Temat [link do repozytorium]
+Projekt A: sterowanie dioda RGB [https://github.com/MarcinPrzadka/RGBcontroller]
 Projekt B: Temat [link do repozytorium]
 
 Karol Adach 223927
