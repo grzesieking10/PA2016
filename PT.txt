@@ -25,7 +25,7 @@ Projekt A: Temat [link do repozytorium]
 Projekt B: Temat [link do repozytorium]
 
 Krzysztof Mospan 218919
-Projekt A: Temat [link do repozytorium]
+Projekt A: Symulator silnika krokowego (aplikacja graficzna) [link do repozytorium]
 Projekt B: Temat [link do repozytorium]
 
 Mateusz Maciejuk 230134
