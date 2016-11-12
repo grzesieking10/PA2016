@@ -35,7 +35,7 @@ Projekt A: SCADA do stanowiska do badania algorytmów regulacji napędów śmig�
 Projekt B: Temat [link do repozytorium]
 
 Mosak Maciej
-Projekt A: Temat [link do repozytorium]
+Projekt A: Sterowanie zespołem przekaźników ze sprzężeniem zwrotnym [https://github.com/maciejmosak/relay]
 Projekt B: Temat [link do repozytorium]
 
 Niemczuk Jakub
