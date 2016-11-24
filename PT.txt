@@ -21,7 +21,7 @@ Projekt A: Temat [link do repozytorium]
 Projekt B: Temat [link do repozytorium]
 
 Michał Majda 225332
-Projekt A: Temat [link do repozytorium]
+Projekt A: Snake [https://github.com/ElKartofel/Majda]
 Projekt B: Temat [link do repozytorium]
 
 Krzysztof Mospan 218919
