@@ -43,7 +43,7 @@ Projekt A: Rozpoznawanie twarzy https://github.com/cyrylpawel/projekt_informatyk
 Projekt B: Temat [link do repozytorium]
 
 Michał Pływacz 221254
-Projekt A: Kontroler diody RGB pod arduino https://github.com/mplywacz/Serial_RGB_LED
+Projekt A: Kontroler diody RGB pod arduino korzystający z bibliotek QT https://github.com/mplywacz/Serial_RGB_LED
 Projekt B: Temat [link do repozytorium]
 
 Piotr Wyciechowski 204004
