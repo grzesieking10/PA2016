@@ -17,7 +17,7 @@ Projekt A: sterowanie dioda RGB [https://github.com/MarcinPrzadka/RGBcontroller]
 Projekt B: Temat [link do repozytorium]
 
 Karol Adach 223927
-Projekt A: Temat [link do repozytorium]
+Projekt A: Wirtualna dioda RGB [https://github.com/akwemif/diodaRGB]
 Projekt B: Temat [link do repozytorium]
 
 Michał Majda 225332
