@@ -22,6 +22,8 @@ Projekt B: Temat [link do repozytorium]
 
 Michał Majda 225332
 Projekt A: Snake [https://github.com/ElKartofel/Majda]
+ * Github to nie dropbox! proszę założyć repozytorium z kodami źródłowymi
+ * Zła logika aplikacji sterowanej zdarzeniami - do poprawienia sposób wyświetlania (dodanie obsługi WM_PAINT, ew. back-buffer)
 Projekt B: Temat [link do repozytorium]
 
 Krzysztof Mospan 218919
