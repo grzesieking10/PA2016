@@ -39,7 +39,7 @@ Projekt A: Analizator stanow logicznych [https://github.com/matiko122/COMLogicAn
 Projekt B: Temat [link do repozytorium]
   
 Paweł Cyprys 227279
-Projekt A: Rozpoznawanie twarzy https://github.com/cyrylpawel/projekt_informatyka [OK+; 20161125]
+Projekt A: Rozpoznawanie twarzy https://github.com/cyrylpawel/rozpoznawanie_twarzy [OK+; 20161125]
 Projekt B: Temat [link do repozytorium]
 
 Michał Pływacz 221254
