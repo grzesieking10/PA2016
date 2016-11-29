@@ -3,7 +3,7 @@ Termin oddania sprawnego projektu B: do końca semestru (01.02.2017)
 Pliki źródłowe projektów proszę wrzucić na własne konta GitHub.
 
 Aniulis Jakub
-Projekt A: Temat [link do repozytorium]
+Projekt A: Przeglądarka grafiki [https://github.com/Ziemnianin007/GasSmiulator-5]
 Projekt B: Temat [link do repozytorium]
 
 Chudzyńska Aleksandra
