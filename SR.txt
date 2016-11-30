@@ -38,6 +38,8 @@ Projekt B: Temat [link do repozytorium]
 
 Mosak Maciej
 Projekt A: Sterowanie zespołem przekaźników ze sprzężeniem zwrotnym [https://github.com/maciejmosak/relay]
+ -- bez kopypasteryzmu!!!
+ -- struktura/klasa Relay, a w niej: { Button, state, command }
 Projekt B: Temat [link do repozytorium]
 
 Niemczuk Jakub
