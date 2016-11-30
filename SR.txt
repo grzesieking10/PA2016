@@ -17,7 +17,7 @@ Projekt A: Sterowanie diodą RGB [link do repozytorium]
 Projekt B: Temat [link do repozytorium]
 
 Fedoryka Grzegorz
-Projekt A: Gra w unikanie [https://github.com/GrzegorzFedoryka/simple_game_winapi]
+Projekt A: Gra w unikanie [https://github.com/GrzegorzFedoryka/simple_game_winapi] [OK, ale po co 6 timerów!!!]
 Projekt B: Temat [link do repozytorium]
 
 Kanus Mateusz
