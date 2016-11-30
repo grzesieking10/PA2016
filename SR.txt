@@ -12,9 +12,14 @@ Projekt A: licznik [https://github.com/AChudzynska/licznik]
  -- do poprawki opóźnienia spowodowane niedokładnością czasu nadejścia komunikatów WM_TIMER/funkcji TimerProc.
 Projekt B: Temat [link do repozytorium]
 
+
 Dase Wojciech
 Projekt A: Sterowanie diodą RGB [link do repozytorium]
 Projekt B: Temat [link do repozytorium]
+Kuźmiński Paweł
+Projekt A: Symulacja działania diody RGB https://github.com/Pawelox/Avenger2016.git [OK, arduino + HSV + UserCtrl]
+Projekt B: Temat [link do repozytorium]
+
 
 Fedoryka Grzegorz
 Projekt A: Gra w unikanie [https://github.com/GrzegorzFedoryka/simple_game_winapi] [OK, ale po co 6 timerów!!!]
@@ -24,9 +29,6 @@ Kanus Mateusz
 Projekt A: Temat [link do repozytorium]
 Projekt B: Temat [link do repozytorium]
 
-Kuźmiński Paweł
-Projekt A: Symulacja działania diody RGB https://github.com/Pawelox/Avenger2016.git
-Projekt B: Temat [link do repozytorium]
 
 Ligas Szymon  
 Projekt A: Temat [link do repozytorium]
