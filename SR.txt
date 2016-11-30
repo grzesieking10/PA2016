@@ -7,7 +7,7 @@ Projekt A: Przeglądarka grafiki [https://github.com/Ziemnianin007/GasSmiulator-
 Projekt B: Temat [link do repozytorium]
 
 Chudzyńska Aleksandra
-Projekt A: Temat [link do repozytorium]
+Projekt A: Temat 
 Projekt B: Temat [link do repozytorium]
 
 Dase Wojciech
