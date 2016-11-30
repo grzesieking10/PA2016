@@ -45,7 +45,7 @@ Projekt A: Sterowanie zespołem przekaźników ze sprzężeniem zwrotnym [https:
 Projekt B: Temat [link do repozytorium]
 
 Niemczuk Jakub
-Projekt A: Not a Universal Resistance Meter [https://github.com/Halogenek/NURM]
+Projekt A: Not a Universal Resistance Meter [https://github.com/Halogenek/NURM] [OK!!]
 Projekt B: Temat [link do repozytorium]
 
 Polański Paweł
