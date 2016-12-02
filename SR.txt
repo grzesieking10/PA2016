@@ -43,8 +43,8 @@ Projekt A: Not a Universal Resistance Meter [https://github.com/Halogenek/NURM]
 Projekt B: Temat [link do repozytorium]
 
 Polański Paweł
-Projekt A: Panel kontrolny do interpretacji, testów oraz kalibracji filtra danych opartego o algorytm Kalmana [https://github.com/Josh55/KF_AppControl]
-Projekt B: Temat [link do repozytorium]
+Projekt A: JavaFX_aklimatyzacja [https://github.com/Josh55/KF_AppControl
+Projekt B: Panel kontrolny do interpretacji, testów oraz kalibracji filtra danych opartego o algorytm Kalmana [https://github.com/Josh55/KF_AppControl]
 
 Zieliński Grzegorz
 Projekt A: Temat Snake
