@@ -17,11 +17,13 @@ Projekt A: sterowanie dioda RGB [https://github.com/MarcinPrzadka/RGBcontroller]
 Projekt B: Temat [link do repozytorium]
 
 Karol Adach 223927
-Projekt A: Temat [link do repozytorium]
+Projekt A: Wirtualna dioda RGB [https://github.com/akwemif/diodaRGB]
 Projekt B: Temat [link do repozytorium]
 
 Michał Majda 225332
-Projekt A: Temat [link do repozytorium]
+Projekt A: Snake [https://github.com/ElKartofel/Majda]
+ * Github to nie dropbox! proszę założyć repozytorium z kodami źródłowymi
+ * Zła logika aplikacji sterowanej zdarzeniami - do poprawienia sposób wyświetlania (dodanie obsługi WM_PAINT, ew. back-buffer)
 Projekt B: Temat [link do repozytorium]
 
 Krzysztof Mospan 218919
@@ -37,11 +39,11 @@ Projekt A: Analizator stanow logicznych [https://github.com/matiko122/COMLogicAn
 Projekt B: Temat [link do repozytorium]
   
 Paweł Cyprys 227279
-Projekt A: Rozpoznawanie twarzy https://github.com/cyrylpawel/projekt_informatyka
+Projekt A: Rozpoznawanie twarzy https://github.com/cyrylpawel/rozpoznawanie_twarzy [OK+; 20161125]
 Projekt B: Temat [link do repozytorium]
 
 Michał Pływacz 221254
-Projekt A: Temat [link do repozytorium]
+Projekt A: Kontroler diody RGB pod arduino korzystający z bibliotek QT https://github.com/mplywacz/Serial_RGB_LED [OK!; 20161125]
 Projekt B: Temat [link do repozytorium]
 
 Piotr Wyciechowski 204004
