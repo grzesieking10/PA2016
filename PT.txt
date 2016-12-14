@@ -47,5 +47,6 @@ Projekt A: Kontroler diody RGB pod arduino korzystający z bibliotek QT https://
 Projekt B: Temat [link do repozytorium]
 
 Piotr Wyciechowski 204004
-Projekt A: Temat [link do repozytorium]
+Projekt A: dioda RGB WinAPI [link do repozytorium] 
+  + po poprawkach OK
 Projekt B: Temat [link do repozytorium]
