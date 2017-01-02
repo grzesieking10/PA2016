@@ -36,7 +36,7 @@ Projekt A: Analizator stanow logicznych [https://github.com/matiko122/COMLogicAn
   - osobny wątek do odbierania danych lub inny mechanizm zapobiegający blokowaniu okna aplikacji
   - elementarna kontrola poprawności danych, sprawdzanie czy po drugiej stronie jest spodziewany sprzęt, ...
   - oprócz wyświetlania bieżącego stanu wejść także ich prosta analiza: detekcja zbocza, możliwość pomiaru długości impulsu, ...
-Projekt B: Temat [link do repozytorium]
+Projekt B: Oprogramowanie do zbierania i przedstawiania danych [https://github.com/matiko122/Sampling-Station]
   
 Paweł Cyprys 227279
 Projekt A: Rozpoznawanie twarzy https://github.com/cyrylpawel/rozpoznawanie_twarzy [OK+; 20161125]
