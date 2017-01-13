@@ -27,7 +27,7 @@ Projekt A: Snake [https://github.com/ElKartofel/Majda]
 Projekt B: Temat [link do repozytorium]
 
 Krzysztof Mospan 218919
-Projekt A: Symulator silnika krokowego (aplikacja graficzna) [link do repozytorium]
+Projekt A: Symulator silnika krokowego (aplikacja graficzna) [https://github.com/KrzysztofMospan/PA_1]
 Projekt B: Temat [link do repozytorium]
 
 Mateusz Maciejuk 230134
