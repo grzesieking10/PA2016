@@ -48,7 +48,7 @@ Projekt B: Temat [link do repozytorium]
 
 Zieliński Grzegorz
 Projekt A: Temat [link do repozytorium]
-Projekt B: Temat [link do repozytorium]
+Projekt B: Gra pt. Catch the baton. JAVA Android Studio [https://github.com/grzesieking10/CATCHTHEBATON2]
 
 Ziółkowski Artur
 Projekt A: Temat [link do repozytorium]
