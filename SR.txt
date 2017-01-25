@@ -55,7 +55,7 @@ Projekt B: Panel kontrolny do interpretacji, testów oraz kalibracji filtra dany
 
 Zieliński Grzegorz
 Projekt A: Temat Snake [OK, wersja minimal-design, mozna poprawic back-buffering]
-Projekt B: Temat [link do repozytorium]
+Projekt B: Gra pt. Catch the baton. JAVA Android Studio [https://github.com/grzesieking10/CATCHTHEBATON2]
 
 Ziółkowski Artur
 Projekt A: Klawisze (pianino) wykonane w WinAPI. https://github.com/arturziolkowski/piano [prawie OPK]
