@@ -59,4 +59,4 @@ Projekt B: Temat [link do repozytorium]
 
 Ziółkowski Artur
 Projekt A: Klawisze (pianino) wykonane w WinAPI. https://github.com/arturziolkowski/piano [prawie OPK]
-Projekt B: Temat [link do repozytorium]
+Projekt B: https://github.com/arturziolkowski/Paint/projects
